@@ -23,7 +23,7 @@
     <dependency>  
     <groupId>org.springframework</groupId>  
     <artifactId>spring-webmvc</artifactId>  
-    <version>5.1.1.RELEASE</version>  
+    <version>5.2.0.RELEASE</version>  
 </dependency>  
   <dependency>    
     <groupId>javax.servlet</groupId>    
@@ -33,7 +33,7 @@
 <dependency>
 	<groupId>org.springframework</groupId>
 	<artifactId>spring-webmvc</artifactId>
-	<version>5.0.7.RELEASE</version>
+	<version>5.2.0.RELEASE</version>
 </dependency>
 <dependency>
 	<groupId>org.springframework</groupId>
@@ -74,7 +74,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.2.1.RELEASE</version>
+			<version>5.2.0.RELEASE</version>
 		</dependency>
 
 <dependency>
